@@ -8,6 +8,8 @@
 <br><br>
 ### My GitHub Stats
 
+:smirk:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonwoo&show_icons=true&theme=transparents)
 <br><br>
 
