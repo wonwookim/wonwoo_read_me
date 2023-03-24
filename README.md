@@ -22,13 +22,15 @@
 
 
 ### :pencil2: Tools
+
 <img src="https://img.shields.io/badge/Git-f05030?style=plastic&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white"/>
+
 
 
 
