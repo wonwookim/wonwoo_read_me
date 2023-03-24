@@ -1,12 +1,12 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=won's%20GitHub&descAlign=70.&descAlignY=44)
 
-### My Stack
+### :mortar_board:My Stack
 
 * Flutter App Developer
 * Data Analyst
 * Computer Vision
 <br><br>
-### My GitHub Stats
+### My GitHub Stats 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonwoo&show_icons=true&theme=transparents)
 <br><br>
