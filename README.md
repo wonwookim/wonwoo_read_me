@@ -16,16 +16,16 @@
   
 ### :computer: FrameWork & Language 
   
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Python&logoColor=white"/></br></br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Python&logoColor=white"/></br></br>
 
 
 ### :pencil2: Tools
-<img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-f05030?style=plastic&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
 <br><br>
 
 </div>
